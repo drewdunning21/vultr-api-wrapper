@@ -1,0 +1,7 @@
+iso.json
+node_modules/
+data/
+__pycache__/
+yarn-error.log
+cookie-gen/yarn-error.log
+cookies.txt
